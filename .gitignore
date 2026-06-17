@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.env
+api_key.txt
+
+database.db
+
+.streamlit/secrets.toml
